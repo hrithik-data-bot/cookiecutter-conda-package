@@ -1,0 +1,10 @@
+{
+    "project_name": "conda-package-name",
+    "project_slug": "conda-package-name",
+    "module_name": "module_name",
+    "author_name": "Author Name",
+    "author_email": "you@example.com",
+    "project_description": "A short description of the package.",
+    "version": "0.1.0",
+    "license": "MIT"
+}
